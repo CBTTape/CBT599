@@ -1,0 +1,8 @@
+2023-04-03 01:19:06.042795 - Initialized conversion of CBT599
+2023-04-03 01:19:06.083482 - Received CBT.V504.FILE599.PDS from FILE599.XMI 
+2023-04-03 01:19:06.086797 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE599.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:19:06.087921 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE599.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:19:06.089352 - Found $ISPFL.txt (text/plain) in CBT.V504.FILE599.PDS, moved to PDS/$ISPFL
+2023-04-03 01:19:06.090631 - Found @FILE599.txt (text/plain) in CBT.V504.FILE599.PDS, moved to PDS/@FILE599
+2023-04-03 01:19:06.091735 - Found ENV.rexx (text/plain) in CBT.V504.FILE599.PDS, moved to PDS/ENV
+2023-04-03 01:19:06.092905 - Found ENVO.rexx (text/plain) in CBT.V504.FILE599.PDS, moved to PDS/ENVO
