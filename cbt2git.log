@@ -1,0 +1,7 @@
+2025-04-13 21:02:55.017171 - Received CBT.V508.FILE599.PDS from FILE599.XMI 
+2025-04-13 21:02:55.018517 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE599.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:02:55.018645 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE599.PDS, moved to PDS/$$NOTE1
+2025-04-13 21:02:55.018781 - Found $ISPFL.txt (text/plain) in CBT.V508.FILE599.PDS, moved to PDS/$ISPFL
+2025-04-13 21:02:55.018900 - Found @FILE599.txt (text/plain) in CBT.V508.FILE599.PDS, moved to PDS/@FILE599
+2025-04-13 21:02:55.019019 - Found ENV.rexx (text/plain) in CBT.V508.FILE599.PDS, moved to PDS/ENV
+2025-04-13 21:02:55.019140 - Found ENVO.rexx (text/plain) in CBT.V508.FILE599.PDS, moved to PDS/ENVO
